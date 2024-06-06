@@ -3,11 +3,8 @@
    
 
 
-# def ftp_control(*ftp,**response):
-#     print(ftp)
-#     print(response)
+
 
 
     #New Menu Appears
-    #ftp_response_menu()
-    #user_response_menu(ftp,valid_response)
+    

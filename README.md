@@ -6,7 +6,7 @@ My first project in python that creates a basic ftp tool in which a user can use
 1. Download the repo and extract it into your preferred location
 2. Select the "Change Server" by using the terminal and respoing with the listed number and follow the directions provided
 3. (Optional) select the "Change Credentials" and follow the directions.
-4. Press Connect and it should connect to your FTP server.
+5. Press Connect and it should connect to your FTP server.
 
 ## Running the application
 ```
